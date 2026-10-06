@@ -1,0 +1,6 @@
+{
+  "name": "Sholeh Cendekia Cimahi",
+  "description": "Platform digital pembentukan karakter & kebiasaan anak sholeh Kota Cimahi oleh ITEC & Masagi Cendekia Berkah bersama Pemkot Cimahi, Disdik, Dinsos, DMI, MUI, Baznas & ICMI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
